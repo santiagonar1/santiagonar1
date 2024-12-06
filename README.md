@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello there, good to have you here 👋
+
+I am a research associate and doctoral candidate at the [Technical University of Munich](https://www.tum.de/en/). I work mostly with C++ code bases and libraries for High-Performance Computing applications. Most of my work these days is done in our [GitLab instance](https://gitlab.lrz.de/), which explains the low commits on my profile 😅.
+
+If you want to know more, please check my [TUM webpage](https://www.cs.cit.tum.de/en/sccs/people/santiago-narvaez/).
 
 <!--
 **santiagonar1/santiagonar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
